@@ -1,0 +1,270 @@
+body{
+	background-color:#e9ebee;
+}
+
+  #wrapper {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+#main,
+#menu,
+#sidebar {
+  height: 1000px;
+}
+
+#header {
+    background-color: #3b5998;
+    border-bottom:1px solid #29487d;
+	padding:0 80px 0 80px;
+}
+#main,
+
+#menu,
+#sidebar {
+  
+}
+#white-text {
+  color: white;
+}
+.white-text {
+  color: white !important;
+}
+#header ul .glyphicon {
+    font-size: 15px;
+	
+} 
+.tab-border{
+border-bottom:none;
+}
+.tab-color{
+color:#90949c;
+}
+.tab-background{
+background-color:white;
+border:1px solid #ddd;
+
+
+}
+.tab-margin{
+position:relative;
+left:90px;
+color:gray;
+padding:0px !important;
+margin:6px;
+font-size;15px;
+}
+.search-button
+{
+	box-sizing:border-box;
+	height:27px;
+	margin-left:-10px;
+	border:none;
+	margin-top:2px;
+}
+body
+{
+	margin-top:55px;
+}
+.profile-picture
+{
+	width:25px;
+height:30px;
+
+margin-top:-5px;
+}
+
+.logo-img
+{
+	height:28px;
+	margin-top:-6px;
+	margin-left:30px;
+}
+.sidebar-img{
+	height:22px;
+	margin-left:5px;
+	margin-right:7px;
+	border-radius:40%;
+}
+.name
+{
+	color:black;
+
+	padding :0px 5px!important;
+}
+.create{
+	padding:1px!important;
+	margin:3px;
+}
+#search-box{
+	
+	border:1px solid #3b5998;
+	border-radius:3px;
+	box-sizing:border-box;
+	height:29px;
+	width:400px !important;
+	margin:2px 0px 0px -20px;
+	
+}
+.list-heading {
+    margin-left:15px;
+}
+
+.panel-body .glyphicon {
+    margin-left: 10px;
+    margin-right: 4px;
+}
+
+.image-post {
+    margin-bottom: 15px;
+}
+#main {
+    overflow: auto;
+}
+#main::-webkit-scrollbar {
+    display: none;
+}
+.badge{
+	color:grey;
+	background-color:#e9ebee!important;
+	margin-left:48px!important;
+}
+.poke-margin{
+	margin-left:43px!important;
+	
+}
+.status-box
+{
+width:300px;
+padding:9px;
+outline:none!important;
+border:none;	
+}
+
+.comment1
+{position:relative;
+	top:-8px;
+	right:-1px;
+}
+.priv
+{    position:relative;
+	left:10px;
+	top:-60px;
+	color:grey;
+}
+.under-text{
+	color: grey;
+}
+.panel-heading
+{
+	color: blue;
+}
+
+#input
+{    
+    margin-top: 15px;
+	border:solid white;
+	font-size:15px;
+	width:400px;
+}
+p {
+	margin: 0 0 10px;
+}
+.fb-logo{
+	position:relative;
+	top:-8px;
+	left:25px;
+}
+.glyphicon-quote
+{
+	font-size:10px;
+	color:gray;
+	margin-left:480px;
+}
+.glyphicon-quote2
+{   font-size:10px;
+     position:relative;
+	margin-top:-5px;
+	color:gray;
+	margin-left:434px;
+}
+.glyphicon-quote3{
+	font-size:10px;
+	position:relative;
+	margin-top:-3px;
+	color:gray;
+	margin-left:320px;
+}
+.glyphicon-quote4{
+	font-size:10px;
+	position:relative;
+	margin-top:-3px;
+	color:gray;
+	margin-left:435px;
+}
+
+.time{
+	color:gray;
+	font-size:12px;
+	margin-top:-7px;
+	margin-left:32px;
+}
+.title{
+	font-size:15px;
+}
+.panel-body  .like{
+	margin-top:30px;
+	margin-left:-5px;
+}
+.time-color{
+	color:gray;
+}
+.comment-length{
+	height:33px;
+	width:500px;
+}
+
+
+#list{
+	font-size:13px;
+	margin-left:-35px;
+	margin-right:10px;
+}
+.create-list{
+	color:#365899;
+	font-size:-2px;
+}
+
+.plus
+{
+padding-left:200px;	
+margin-bottom:30px;
+}
+.birthday{
+	color:gray;
+}
+.text-margin{
+	margin:20px;
+	text-align:justify;
+}
+.btn-plus{
+	position:relative;
+	margin-left:120px;
+	margin-top:-25px;
+}
+
+.notification
+{
+	position:relative;
+	bottom:-5px;
+	 border-radius:16%;
+	background-color:red;
+	color:white;
+	margin:-20px;
+   
+	margin-left:-20px;
+
+}
+
+
+
